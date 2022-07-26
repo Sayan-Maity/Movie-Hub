@@ -1,11 +1,11 @@
-Visit the site to see the website LIVE = " https://sayancr777-movie-app.netlify.app/ "
+Visit the site to see the website LIVE = " https://sayancr777-movie-hub.netlify.app/ "
 
 
 <h1 align="center">
   movie-hub.com
 </h1>
 <p align="center">
-  This project is made using ReactJS, Redux, HTML and CSS
+  This project is made using ReactJS, Tailwind-CSS, Javascript, HTML
 </p>
 <p align="center">
   <img src="https://media0.giphy.com/media/Yx17W03kc8QSsbLBcb/giphy.gif?cid=ecf05e47w5pl0zoowssommrnea77o2x0utbsogisnmu2bfrr&rid=giphy.gif&ct=s" width="45">&nbsp;
