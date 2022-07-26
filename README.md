@@ -17,7 +17,7 @@ Visit the site to see the website LIVE = " https://sayancr777-tesla-landingpage.
 
 ![image1](https://raw.githubusercontent.com/Sayan-Maity/Movie-Hub/main/src/readmeImages/Image-1.jpg) 
 
-![image8](https://raw.githubusercontent.com/Sayan-Maity/Movie-Hub/main/src/readmeImages/Image-2.jpg) 
+![image8](https://raw.githubusercontent.com/Sayan-Maity/Movie-Hub/main/src/readmeImages/Image-3.jpg) 
 
 ![image3](https://raw.githubusercontent.com/Sayan-Maity/Movie-Hub/main/src/readmeImages/Image-4.jpg) 
 
