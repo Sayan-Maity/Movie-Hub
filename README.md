@@ -17,19 +17,14 @@ Visit the site to see the website LIVE = " https://sayancr777-tesla-landingpage.
 
 ![image1](https://raw.githubusercontent.com/Sayan-Maity/Movie-Hub/main/src/readmeImages/Image-1.jpg) 
 
-![image8](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image8.jpg) 
+![image8](https://raw.githubusercontent.com/Sayan-Maity/Movie-Hub/main/src/readmeImages/Image-2.jpg) 
 
-![image2](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image2.jpg) 
+![image2](https://raw.githubusercontent.com/Sayan-Maity/Movie-Hub/main/src/readmeImages/Image-3.jpg) 
 
-![image3](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image3.jpg) 
+![image3](https://raw.githubusercontent.com/Sayan-Maity/Movie-Hub/main/src/readmeImages/Image-4.jpg) 
 
-![image4](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image4.jpg) 
+![image4](https://raw.githubusercontent.com/Sayan-Maity/Movie-Hub/main/src/readmeImages/Image-5.jpg) 
 
-![image5](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image5.jpg) 
-
-![image6](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image6.jpg) 
-
-![image7](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image7.jpg) 
 
 
 
