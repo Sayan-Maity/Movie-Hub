@@ -2,7 +2,7 @@ Visit the site to see the website LIVE = " https://sayancr777-movie-app.netlify.
 
 
 <h1 align="center">
-  tesla.com/Landing-Page
+  movie-hub.com
 </h1>
 <p align="center">
   This project is made using ReactJS, Redux, HTML and CSS
