@@ -1,8 +1,5 @@
 Visit the site to see the website LIVE = " https://sayancr777-tesla-landingpage.netlify.app/ "
 
-<div align="center">
-  <img alt="Logo" src="https://allcarbrandslist.com/wp-content/uploads/2020/12/Tesla-Logo-1-2048x1536.png" width="250" />
-</div>
 
 <h1 align="center">
   tesla.com/Landing-Page
