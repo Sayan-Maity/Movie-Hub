@@ -9,7 +9,7 @@ Visit the site to see the website LIVE = " https://sayancr777-movie-hub.netlify.
 </p>
 <p align="center">
   <img src="https://media0.giphy.com/media/Yx17W03kc8QSsbLBcb/giphy.gif?cid=ecf05e47w5pl0zoowssommrnea77o2x0utbsogisnmu2bfrr&rid=giphy.gif&ct=s" width="45">&nbsp;
-  Go through all the images below to have a clear idea about the Landing Page of the "TESLA" Website
+  Go through all the images below to have a clear idea about the "Movie-Hub" Website
 &nbsp;<img src="https://media0.giphy.com/media/Yx17W03kc8QSsbLBcb/giphy.gif?cid=ecf05e47w5pl0zoowssommrnea77o2x0utbsogisnmu2bfrr&rid=giphy.gif&ct=s" width="45">
 </p>
 
