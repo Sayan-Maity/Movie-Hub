@@ -1,4 +1,4 @@
-Visit the site to see the website LIVE = " https://sayancr777-movie-hub.netlify.app/ "
+Visit the link to see the website LIVE = " https://sayancr777-movie-hub.netlify.app/ "
 
 
 <h1 align="center">
